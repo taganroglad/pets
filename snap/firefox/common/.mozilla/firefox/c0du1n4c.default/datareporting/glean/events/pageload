@@ -1,0 +1,2 @@
+{"timestamp":1772546,"category":"perf","name":"page_load","extra":{"load_type":"NORMAL","http_ver":"1","load_time":"237","dns_lookup_time":"0"},"execution_counter":3}
+{"timestamp":1780583,"category":"perf","name":"page_load","extra":{"redirect_count":"1","load_type":"NORMAL","load_time":"2605","redirect_time":"201","response_time":"2132","js_exec_time":"8","http_ver":"1"},"execution_counter":3}
