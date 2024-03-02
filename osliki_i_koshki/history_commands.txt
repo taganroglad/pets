@@ -1,0 +1,116 @@
+416  cat > Домашние_животные
+  417  cd..
+  418  cd ..
+  419  cd -
+  420  cat > вьючные_животные
+  421  ll
+  422  git init
+  423  git remote add origin https://github.com/taganroglad/Osliki_i_koshki.git
+  424  git branch -M main
+  425  git push -u origin main
+  426  git add -a
+  427  git add -A
+  428  git commit "just added two folders"
+  429  git commit -m "just added two folders"
+  430  git config --global user.email "taganroglad1@gmail.com"
+  431  git config --global user.name "taganroglad"
+  432  git commit -m "just added two folders"
+  433  git remote add origin https://github.com/taganroglad/Osliki_i_koshki.git
+  434  git branch -M main
+  435  git push -u origin main
+  436  git remote add origin https://github.com/taganroglad/Osliki_i_koshki.git
+  437  git push -u origin main
+  438  nano .git/config
+  439  git push -u origin main
+  440  git commit -m "just added two folders"
+  441  mkdir osliki_i_koshki
+  442  mv Домашние_животные вьючные_животные osliki_i_koshki/
+  443  git add -A
+  444  git commit -m "just moved files in the folder"
+  445  git push
+  446  rm -rf *
+  447  sudo su
+  448  git push
+  449  rm -rf *
+  450  git add -A
+  451  git commit -m "just removed"
+  452  git push
+  453  git push --force origin main
+  454  ll
+  455  cat > Домашние_животные
+  456  cat > Вьючные_животные
+  457  mkdir osliki_i_koshki
+  458  mv Домашние_животные Вьючные_животные osliki_i_koshki/
+  459  git config --global user.email "taganroglad1@gmail.com"
+  460  git config --global user.name "taganroglad"
+  461  git init
+  462  git add -A
+  463  git commit -m "just moved files"
+  464  git remote add origin https://github.com/taganroglad/pets.git
+  465  git branch -M main
+  466  git push -u origin main
+  467  git branch -M main
+  468  git push -u origin main
+  469  git remote -v
+  470  git remote set-url origin https://github.com/taganroglad/pets.git
+  471  git remote -v
+  472  git remote add origin https://github.com/taganroglad/pets.git
+  473  git branch -M main
+  474  git push -u origin main
+  475  Username for 'https://github.com': taganroglad
+  476  Password for 'https://taganroglad@github.com': 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
+  477  git push -u origin main
+  478  git add -A
+  479  git commit -m "just arranged the place"
+  480  git cd osliki_i_koshki
+  481  cd osliki_i_koshki
+  482  cat Вьючные_животные Домашние_животные > Друзья человека
+  483  cat Вьючные_животные Домашние_животные > Друзья_человека
+  484  cat Друзья_человека
+  485  git add -A
+  486  git commit -m "just united"
+  487  git push
+  488  rm Друзья
+  489  дд
+  490  ll
+  491  mv Друзья_человека Новые_животные
+  492  ll
+  493  git add -A
+  494  git commit -m "just renamed the file"
+  495  git push
+  496  mkdir ДомашнийПитомник
+  497  mv Новые_животные ДомашнийПитомник/
+  498  git add -A
+  499  git commit -m "just moved new animals"
+  500  git push
+  501  cd ..
+  502  sudo add-apt-repository mysql-apt-config
+  503  wget https://dev.mysql.com/get/mysql-apt-config_0.8.17-1_all.deb
+  504  sudo dpkg -i mysql-apt-config_0.8.17-1_all.deb
+  505  lsb_release -a
+  506  sudo dpkg -i mysql-apt-config_0.8.17-1_all.deb
+  507  sudo apt-get update
+  508  sudo apt-get install mysql-server-8.0
+  509  git status
+  510  mysql --version
+  511  git add -A
+  512  git commit -m "just installed sql"
+  513  git push
+  514  sudo dpkg -i package.deb
+  515  pwd
+  516  sudo dpkg -i /home/taganroglad/mysql-apt-config_0.8.17-1_all.deb
+  517  sudo apt-get install mysql-server
+  518  git status
+  519  pwd
+  520  sudo dpkg -i /home/taganroglad/mysql-apt-config_0.8.17-1_all.deb
+  521  sudo dpkg -r mysql-apt-config_0.8.17-1_all.deb
+  522  dpkg -l | grep mysql-apt-config
+  523  sudo dpkg -r mysql-apt-config
+  524  git add -A
+  525  git commit -m "just removed mysql"
+  526  git status
+  527  git push
+  528  git status
+  529  git push
+  530  hystory
+  531  history

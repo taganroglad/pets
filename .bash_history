@@ -413,3 +413,117 @@ sudo apt install -y docker.io
 sudo apt install -y docker-compose
 sudo usermod -aG docker taganroglad
 su - taganroglad
+cat > Домашние_животные
+cd..
+cd ..
+cd -
+cat > вьючные_животные
+ll
+git init
+git remote add origin https://github.com/taganroglad/Osliki_i_koshki.git
+git branch -M main
+git push -u origin main
+git add -a
+git add -A
+git commit "just added two folders"
+git commit -m "just added two folders"
+git config --global user.email "taganroglad1@gmail.com"
+git config --global user.name "taganroglad"
+git commit -m "just added two folders"
+git remote add origin https://github.com/taganroglad/Osliki_i_koshki.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/taganroglad/Osliki_i_koshki.git
+git push -u origin main
+nano .git/config
+git push -u origin main
+git commit -m "just added two folders"
+mkdir osliki_i_koshki
+mv Домашние_животные вьючные_животные osliki_i_koshki/
+git add -A
+git commit -m "just moved files in the folder"
+git push
+rm -rf *
+sudo su
+git push
+rm -rf *
+git add -A
+git commit -m "just removed"
+git push
+git push --force origin main
+ll
+cat > Домашние_животные
+cat > Вьючные_животные
+mkdir osliki_i_koshki
+mv Домашние_животные Вьючные_животные osliki_i_koshki/
+git config --global user.email "taganroglad1@gmail.com"
+git config --global user.name "taganroglad"
+git init
+git add -A
+git commit -m "just moved files"
+git remote add origin https://github.com/taganroglad/pets.git
+git branch -M main
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote -v
+git remote set-url origin https://github.com/taganroglad/pets.git
+git remote -v
+git remote add origin https://github.com/taganroglad/pets.git
+git branch -M main
+git push -u origin main
+Username for 'https://github.com': taganroglad
+Password for 'https://taganroglad@github.com': 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
+git push -u origin main
+git add -A
+git commit -m "just arranged the place"
+git cd osliki_i_koshki
+cd osliki_i_koshki
+cat Вьючные_животные Домашние_животные > Друзья человека
+cat Вьючные_животные Домашние_животные > Друзья_человека
+cat Друзья_человека
+git add -A
+git commit -m "just united"
+git push
+rm Друзья
+дд
+ll
+mv Друзья_человека Новые_животные
+ll
+git add -A
+git commit -m "just renamed the file"
+git push
+mkdir ДомашнийПитомник
+mv Новые_животные ДомашнийПитомник/
+git add -A
+git commit -m "just moved new animals"
+git push
+cd ..
+sudo add-apt-repository mysql-apt-config
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.17-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.17-1_all.deb
+lsb_release -a
+sudo dpkg -i mysql-apt-config_0.8.17-1_all.deb
+sudo apt-get update
+sudo apt-get install mysql-server-8.0
+git status
+mysql --version
+git add -A
+git commit -m "just installed sql"
+git push
+sudo dpkg -i package.deb
+pwd
+sudo dpkg -i /home/taganroglad/mysql-apt-config_0.8.17-1_all.deb
+sudo apt-get install mysql-server
+git status
+pwd
+sudo dpkg -i /home/taganroglad/mysql-apt-config_0.8.17-1_all.deb
+sudo dpkg -r mysql-apt-config_0.8.17-1_all.deb
+dpkg -l | grep mysql-apt-config
+sudo dpkg -r mysql-apt-config
+git add -A
+git commit -m "just removed mysql"
+git status
+git push
+git status
+git push
