@@ -1,7 +1,0 @@
-{"timestamp":1650608,"category":"fog.validation","name":"validate_early_event"}
-{"timestamp":1655823,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
-{"timestamp":1657306,"category":"nimbus_events","name":"exposure","extra":{"branch":"control","experiment":"fox-doodle-set-to-default-early-day-user","feature_id":"fxms-message-4"}}
-{"timestamp":1681673,"category":"nimbus_events","name":"unenrollment","extra":{"branch":"control","enrollment_id":"e1cc4eae-bc59-4f97-a57a-d18f4f5f72ab","reason":"recipe-not-seen","experiment":"fox-doodle-set-to-default-early-day-user"}}
-{"timestamp":1681674,"category":"nimbus_events","name":"unenrollment","extra":{"enrollment_id":"28af4953-ef5d-4978-9676-3404d220b3b6","branch":"treatment-a","experiment":"fox-guide-reader-mode-early-day-user","reason":"recipe-not-seen"}}
-{"timestamp":1681678,"category":"nimbus_events","name":"unenrollment","extra":{"reason":"recipe-not-seen","enrollment_id":"17ea30eb-b3b5-4acd-a1da-73936e0ffc53","experiment":"rollout-of-share-of-voice-for-sponsored-topsites-rest-of-world","branch":"control"}}
-{"timestamp":1681678,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature"}}
